@@ -1,3 +1,6 @@
+
+//using linear search method
+
 #include <bits/stdc++.h>
 using namespace std;
 
